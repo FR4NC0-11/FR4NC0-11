@@ -17,18 +17,9 @@ Tenho um forte interesse em me tornar um dev <b>Full Stack</b> , porém atualmen
 ## 💻 Tecnologias e Ferramentas que estou aprendendo:
 
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=java,julia,react,flutter,html,css,bootstrap,js,ts,eclipse,vscode,figma,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,react,html,css,js,ts,figma, mysql, mongodb" />
           
 </div>
-
-### 🗄️ Banco de Dados
-
-Estou aprendendo sobre os seguintes bancos de dados:
-
-<div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,postman" />
-</div>
-
 ###
 
 <br clear="both">
