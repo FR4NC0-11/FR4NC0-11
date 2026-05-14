@@ -7,7 +7,7 @@
 <br>
 
 <p>
- Meu nome é Jean C. Franco Júnior, tenho 17 anos e sou nativo de Blumenau, Santa Catarina. Atualmente, estou cursando o Técnico de Desenvolvimento de Sistemas na Escola Sesi e participando do curso de Flutter oferecido pela Blusoft. 
+ Meu nome é Jean C. Franco Júnior, tenho 17 anos e sou nativo de Blumenau, Santa Catarina. Atualmente, estou cursando o Técnico de Desenvolvimento de Sistemas na Escola Sesi e participei do curso de Flutter oferecido pela Blusoft. 
   </p> <br> <p>
 Ainda não estou no mercado de trabalho, mas estou constantemente em busca de aprimorar minhas habilidades como <b>programador</b>.
 Tenho um forte interesse em me tornar um dev <b>Full Stack</b> , porém atualmente atuo fortemente no <b>front-end</b>, mas estou me dedicando para me tornar um desenvolvedor Full-Stack no futuro.<br>
