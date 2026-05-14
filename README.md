@@ -29,10 +29,12 @@ Estou aprendendo sobre os seguintes bancos de dados:
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,postman" />
 </div>
 
-## 📊 GitHub Stats
+###
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FR4NC0-11&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/jkc66/jkc66/output/snake.svg" alt="Snake animation" />
+
+###
 
 
