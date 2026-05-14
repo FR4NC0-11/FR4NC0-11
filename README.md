@@ -17,7 +17,7 @@ Tenho um forte interesse em me tornar um dev <b>Full Stack</b> , porém atualmen
 ## 💻 Tecnologias e Ferramentas que estou aprendendo:
 
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=java,react,html,css,js,ts,figma, mysql" />
+  <img src="https://skillicons.dev/icons?i=java,react,html,css,js,ts,figma,mysql,mongodb" />
           
 </div>
 
